@@ -7,6 +7,7 @@ class Directory extends React.Component {
 		super();
 
 		this.state = {
+			hi: 'hello',
 			sections: [
 				{
 					title: 'hats',
